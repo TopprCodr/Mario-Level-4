@@ -16,10 +16,10 @@ function preload(){
 
   mushObstacleImage = loadAnimation("images/mush1.png",
   "images/mush2.png","images/mush3.png","images/mush4.png",
-  "images/mush5.png","images/mush6.png",);
+  "images/mush5.png","images/mush6.png");
   turtleObstacleImage = loadAnimation("images/tur1.png",
   "images/tur2.png","images/tur3.png","images/tur4.png",
-  "images/tur5.png",);
+  "images/tur5.png");
 
   dieSound = loadSound("sounds/dieSound.mp3");
   
